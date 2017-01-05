@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![video-speed-scrubber](http://imgur.com/AdW66iz.png)
+![video-speed-scrubber](http://imgur.com/oz9ETfE.png)
 
 ## License
 
